@@ -1,5 +1,5 @@
 👋 Hi, I’m @OREOSITY
-- 📊 Data Analyst with a passion for machine learning and AI.
+- 📊 Data Analyst/Data Science with a passion for machine learning and AI.
 - 🎓 Master’s in Management of Analytics and Data Technologies from NIDA.
 - 🏆 Silver Medalist in the Super AI Engineer Program.
 - 💡 Experienced in data modeling, visualizations, and building ML solutions.
