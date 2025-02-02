@@ -6,7 +6,7 @@
 
 
 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/jatturong-yingmuang-493637103/
+LinkedIn: [Linkedin](https://www.linkedin.com/in/jatturong-yingmuang-493637103/)
 
 
 <!---
